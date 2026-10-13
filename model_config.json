@@ -1,0 +1,13 @@
+{
+    "max_len": 25,
+    "num_classes": 4,
+    "embedding_dim": 100,
+    "emotion_classes": [
+        "anger",
+        "fear",
+        "joy",
+        "sadness"
+    ],
+    "best_epoch": 85,
+    "validation_macro_f1": 0.8993985117379303
+}
